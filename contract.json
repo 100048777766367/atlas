@@ -1,0 +1,8 @@
+{
+    "contract_id": "bodhi.contract.v1",
+    "identity": "100048777766367/atlas",
+    "genesis_root": "100048777766367/contract",
+    "clan": "ATLAS_LINEAGE",
+    "role": "MASTER_FLEET_NAVIGATOR_AND_OBSERVER",
+    "io_specification": "I/O (FULL-DUPLEX OBSERVATION)"
+}
