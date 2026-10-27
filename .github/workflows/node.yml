@@ -1,11 +1,11 @@
-name: Atlas Supreme Fleet Lifecycle
+name: Atlas Supreme Homeostasis Lifecycle
 
 on:
   push:
     branches: [ main, master ]
   workflow_dispatch:
   schedule:
-    # Tuần tra vẽ bản đồ mỗi 4 tiếng
+    # Tuần tra vẽ bản đồ và kiểm toán mỗi 4 tiếng
     - cron: '0 */4 * * *'
 
 permissions:
@@ -15,7 +15,7 @@ jobs:
   run-atlas:
     runs-on: ubuntu-latest
     steps:
-      # 1. KÉO CODE BẰNG LINUX SHELL GỐC
+      # 1. KÉO MÃ NGUỒN BẰNG SHELL GỐC
       - name: Kéo mã nguồn Atlas
         run: |
           git clone --depth 1 https://github.com/${{ github.repository }}.git .
@@ -26,16 +26,16 @@ jobs:
         with:
           python-version: '3.14'
 
-      # 3. VẬN HÀNH ĐÀI CHỈ HUY HẢI ĐĂNG KERNEL.PY
+      # 3. VẬN HÀNH ĐÀI CHỈ HUY KIỂM TOÁN KERNEL.PY
       - name: Vận hành Đài Chỉ Huy Atlas
         env:
           REPO_OWNER: ${{ github.repository_owner }}
         run: python kernel.py
 
-      # 4. LƯU BẢN ĐỒ SỐ VÀ VẾT TÍCH VÀO GIT BỌC THÉP
+      # 4. LƯU BẢN ĐỒ VÀ BẢNG KIỂM TOÁN VÀO GIT BỌC THÉP
       - name: Lưu bản đồ số và vết tích lên Git
         run: |
-          git config --global user.name "Atlas-Supreme-Bot"
+          git config --global user.name "Atlas-Homeostasis-Bot"
           git config --global user.email "bot@atlas.command"
           
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
@@ -49,8 +49,8 @@ jobs:
           git add -A
           
           if ! git diff --staged --quiet; then
-            git commit -m "🗺️ [Atlas Supreme] Cập nhật bản đồ sống toàn đàn & Thám tử Shadow Clones #(1+N) [skip ci]"
+            git commit -m "🗺️ [Atlas Homeostasis] Kiểm toán 12 ngoại lệ & Bản đồ sống toàn đàn #(1+N) [skip ci]"
             git push origin "$TARGET_BRANCH"
           else
-            echo "Bản đồ toàn cõi tĩnh lặng, không có biến thiên mới."
+            echo "Toàn đàn tĩnh lặng, không có biến thiên mới."
           fi
