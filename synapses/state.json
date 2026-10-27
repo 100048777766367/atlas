@@ -1,6 +1,6 @@
 {
-    "generation_epoch": 6,
-    "last_t": 1793122881,
-    "quantum_cid": "6381c47af0c4f475897e54a30a26db0ea76b5609c3f39e4ec74b459d88a8b9555dcc1670f6788604cc9b87c08f472bbd5095ef9149ecbccbbabd186b2c02a905",
+    "generation_epoch": 7,
+    "last_t": 1793144247,
+    "quantum_cid": "f91a7c4b4c2a730b7c29fc08b11f9da9f967d954f2817118a0c0e3f10a55226da829cbc0c202a74847811b49cc4666cd3b71748b42250297686b98dffa5ff3c1",
     "status": "atlas_active"
 }
