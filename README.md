@@ -1,6 +1,6 @@
 # 🗺️ BODHI-ATLAS: TỔNG TRẠM HOA TIÊU & ĐIỀU HÒA NỘI MÔ
-> **Đài Chỉ Huy Hải Đăng & Bản Đồ Số Sống Động** | **Kỷ nguyên hải đăng:** #5  
-> **Chứng Chỉ Lượng Tử Toàn Đàn CID:** `03ccd1ec1082c4c640881aba40ce00dec222a05fbcb80875da33264e392ee6630171b684f64a7d1a71ccfcdc67c3c4e6dd5f3d8c50d75c8257d50fc3c226c30a`
+> **Đài Chỉ Huy Hải Đăng & Bản Đồ Số Sống Động** | **Kỷ nguyên hải đăng:** #6  
+> **Chứng Chỉ Lượng Tử Toàn Đàn CID:** `6381c47af0c4f475897e54a30a26db0ea76b5609c3f39e4ec74b459d88a8b9555dcc1670f6788604cc9b87c08f472bbd5095ef9149ecbccbbabd186b2c02a905`
 
 ---
 
@@ -34,55 +34,55 @@
 ### 🛰️ DANH SÁCH CHI TIẾT CÁC NÚT MẠNG ĐANG HOẠT ĐỘNG (49 NÚT):
 | STT | Tên Nút Mạng | Nhánh Mặc Định | Cập Nhật Gần Nhất | Lượt Fork |
 | :---: | :--- | :---: | :--- | :---: |
-| 1 | 🏛️ **[atlas](https://github.com/100048777766367/atlas)** | `main` | 2026-10-27T10:28:42Z | 0 |
-| 2 | 🏛️ **[atlas-01](https://github.com/100048777766367/atlas-01)** | `main` | 2026-10-27T05:30:29Z | 0 |
-| 3 | 🏛️ **[cochlea](https://github.com/100048777766367/cochlea)** | `main` | 2026-10-27T05:35:47Z | 0 |
-| 4 | 🏛️ **[contract](https://github.com/100048777766367/contract)** | `main` | 2026-10-27T04:27:57Z | 0 |
-| 5 | 🏛️ **[cortex](https://github.com/100048777766367/cortex)** | `main` | 2026-10-27T09:59:51Z | 1 |
-| 6 | 🏛️ **[cortex-m](https://github.com/100048777766367/cortex-m)** | `main` | 2026-10-27T09:40:13Z | 1 |
-| 7 | 🏛️ **[distill](https://github.com/100048777766367/distill)** | `main` | 2026-10-27T05:23:09Z | 0 |
-| 8 | 🏛️ **[distill-01](https://github.com/100048777766367/distill-01)** | `main` | 2026-10-18T08:59:47Z | 0 |
-| 9 | 🏛️ **[forge](https://github.com/100048777766367/forge)** | `main` | 2026-10-27T04:56:24Z | 0 |
-| 10 | 🏛️ **[golem](https://github.com/100048777766367/golem)** | `main` | 2026-10-27T05:11:54Z | 0 |
-| 11 | 🏛️ **[monad](https://github.com/100048777766367/monad)** | `main` | 2026-10-27T04:01:41Z | 0 |
-| 12 | 🏛️ **[monad-01](https://github.com/100048777766367/monad-01)** | `main` | 2026-10-27T09:28:26Z | 0 |
-| 13 | 🏛️ **[monad-02](https://github.com/100048777766367/monad-02)** | `main` | 2026-10-27T05:23:58Z | 0 |
-| 14 | 🏛️ **[motor](https://github.com/100048777766367/motor)** | `main` | 2026-10-14T04:27:37Z | 0 |
-| 15 | 🏛️ **[neuron](https://github.com/100048777766367/neuron)** | `main` | 2026-10-27T05:22:13Z | 0 |
-| 16 | 🏛️ **[nexus](https://github.com/100048777766367/nexus)** | `main` | 2026-10-27T05:36:03Z | 0 |
-| 17 | 🏛️ **[nexus-01](https://github.com/100048777766367/nexus-01)** | `main` | 2026-10-27T04:55:13Z | 0 |
-| 18 | 🏛️ **[nexus-02](https://github.com/100048777766367/nexus-02)** | `main` | 2026-10-27T05:16:06Z | 0 |
-| 19 | 🏛️ **[nexus-03](https://github.com/100048777766367/nexus-03)** | `main` | 2026-10-27T05:19:14Z | 0 |
-| 20 | 🏛️ **[nexus-04](https://github.com/100048777766367/nexus-04)** | `main` | 2026-10-27T05:17:22Z | 0 |
-| 21 | 🏛️ **[nexus-05](https://github.com/100048777766367/nexus-05)** | `main` | 2026-10-27T05:30:56Z | 0 |
-| 22 | 🏛️ **[nexus-06](https://github.com/100048777766367/nexus-06)** | `main` | 2026-10-27T05:09:07Z | 0 |
-| 23 | 🏛️ **[nexus-07](https://github.com/100048777766367/nexus-07)** | `main` | 2026-10-27T05:33:00Z | 0 |
-| 24 | 🏛️ **[nexus-08](https://github.com/100048777766367/nexus-08)** | `main` | 2026-10-27T05:39:24Z | 0 |
-| 25 | 🏛️ **[nexus-09](https://github.com/100048777766367/nexus-09)** | `main` | 2026-10-27T05:38:54Z | 0 |
-| 26 | 🏛️ **[nexus-10](https://github.com/100048777766367/nexus-10)** | `main` | 2026-10-27T05:50:18Z | 0 |
-| 27 | 🏛️ **[nexus-11](https://github.com/100048777766367/nexus-11)** | `main` | 2026-10-27T04:20:51Z | 0 |
-| 28 | 🏛️ **[nexus-12](https://github.com/100048777766367/nexus-12)** | `main` | 2026-10-27T04:48:51Z | 0 |
-| 29 | 🏛️ **[nexus-13](https://github.com/100048777766367/nexus-13)** | `main` | 2026-10-27T04:59:27Z | 0 |
-| 30 | 🏛️ **[nexus-14](https://github.com/100048777766367/nexus-14)** | `main` | 2026-10-27T05:10:33Z | 0 |
-| 31 | 🏛️ **[nexus-forge](https://github.com/100048777766367/nexus-forge)** | `main` | 2026-10-27T05:21:58Z | 0 |
-| 32 | 🏛️ **[nexus-lottery](https://github.com/100048777766367/nexus-lottery)** | `main` | 2026-10-25T02:10:15Z | 0 |
-| 33 | 🏛️ **[nexus-treasury](https://github.com/100048777766367/nexus-treasury)** | `main` | 2026-10-27T05:16:00Z | 0 |
-| 34 | 🏛️ **[nexus-vault](https://github.com/100048777766367/nexus-vault)** | `main` | 2026-10-17T07:42:11Z | 0 |
-| 35 | 🏛️ **[olfactory](https://github.com/100048777766367/olfactory)** | `main` | 2026-10-27T05:12:28Z | 0 |
-| 36 | 🏛️ **[oracle](https://github.com/100048777766367/oracle)** | `main` | 2026-10-27T05:41:37Z | 0 |
-| 37 | 🏛️ **[refinery](https://github.com/100048777766367/refinery)** | `main` | 2026-10-27T05:17:02Z | 0 |
-| 38 | 🏛️ **[refinery-01](https://github.com/100048777766367/refinery-01)** | `main` | 2026-10-27T04:56:18Z | 0 |
-| 39 | 🏛️ **[retina](https://github.com/100048777766367/retina)** | `main` | 2026-10-27T05:20:39Z | 0 |
-| 40 | 🏛️ **[retina-evolved](https://github.com/100048777766367/retina-evolved)** | `main` | 2026-10-24T06:29:26Z | 0 |
-| 41 | 🏛️ **[seed](https://github.com/100048777766367/seed)** | `main` | 2026-10-27T09:34:17Z | 0 |
-| 42 | 🏛️ **[seed-01](https://github.com/100048777766367/seed-01)** | `main` | 2026-10-27T05:06:05Z | 0 |
-| 43 | 🏛️ **[seed-02](https://github.com/100048777766367/seed-02)** | `main` | 2026-10-27T05:34:51Z | 0 |
-| 44 | 🏛️ **[seed-bodhi](https://github.com/100048777766367/seed-bodhi)** | `main` | 2026-10-27T05:25:55Z | 0 |
-| 45 | 🏛️ **[seed-bodhi-02](https://github.com/100048777766367/seed-bodhi-02)** | `main` | 2026-10-27T04:58:54Z | 0 |
-| 46 | 🏛️ **[shunya](https://github.com/100048777766367/shunya)** | `main` | 2026-10-27T03:09:50Z | 0 |
-| 47 | 🏛️ **[tactile](https://github.com/100048777766367/tactile)** | `main` | 2026-10-27T04:58:07Z | 0 |
-| 48 | 🏛️ **[vault](https://github.com/100048777766367/vault)** | `main` | 2026-10-27T05:10:26Z | 0 |
-| 49 | 🏛️ **[vault-01](https://github.com/100048777766367/vault-01)** | `main` | 2026-10-27T05:05:14Z | 0 |
+| 1 | 🏛️ **[atlas](https://github.com/100048777766367/atlas)** | `main` | 2026-10-27T10:28:52Z | 0 |
+| 2 | 🏛️ **[atlas-01](https://github.com/100048777766367/atlas-01)** | `main` | 2026-10-27T14:52:19Z | 0 |
+| 3 | 🏛️ **[cochlea](https://github.com/100048777766367/cochlea)** | `main` | 2026-10-27T12:39:55Z | 0 |
+| 4 | 🏛️ **[contract](https://github.com/100048777766367/contract)** | `main` | 2026-10-27T14:14:49Z | 0 |
+| 5 | 🏛️ **[cortex](https://github.com/100048777766367/cortex)** | `main` | 2026-10-27T12:19:30Z | 0 |
+| 6 | 🏛️ **[distill](https://github.com/100048777766367/distill)** | `main` | 2026-10-27T14:47:57Z | 0 |
+| 7 | 🏛️ **[distill-01](https://github.com/100048777766367/distill-01)** | `main` | 2026-10-18T08:59:47Z | 0 |
+| 8 | 🏛️ **[forge](https://github.com/100048777766367/forge)** | `main` | 2026-10-27T14:23:20Z | 0 |
+| 9 | 🏛️ **[golem](https://github.com/100048777766367/golem)** | `main` | 2026-10-27T14:34:50Z | 0 |
+| 10 | 🏛️ **[monad](https://github.com/100048777766367/monad)** | `main` | 2026-10-27T17:36:04Z | 0 |
+| 11 | 🏛️ **[monad-01](https://github.com/100048777766367/monad-01)** | `main` | 2026-10-27T17:06:42Z | 0 |
+| 12 | 🏛️ **[monad-02](https://github.com/100048777766367/monad-02)** | `main` | 2026-10-27T14:49:15Z | 0 |
+| 13 | 🏛️ **[motor](https://github.com/100048777766367/motor)** | `main` | 2026-10-14T04:27:37Z | 0 |
+| 14 | 🏛️ **[neuron](https://github.com/100048777766367/neuron)** | `main` | 2026-10-27T14:47:23Z | 0 |
+| 15 | 🏛️ **[nexus](https://github.com/100048777766367/nexus)** | `main` | 2026-10-27T14:54:38Z | 0 |
+| 16 | 🏛️ **[nexus-01](https://github.com/100048777766367/nexus-01)** | `main` | 2026-10-27T14:22:59Z | 0 |
+| 17 | 🏛️ **[nexus-02](https://github.com/100048777766367/nexus-02)** | `main` | 2026-10-27T14:38:48Z | 0 |
+| 18 | 🏛️ **[nexus-03](https://github.com/100048777766367/nexus-03)** | `main` | 2026-10-27T14:43:30Z | 0 |
+| 19 | 🏛️ **[nexus-04](https://github.com/100048777766367/nexus-04)** | `main` | 2026-10-27T14:40:46Z | 0 |
+| 20 | 🏛️ **[nexus-05](https://github.com/100048777766367/nexus-05)** | `main` | 2026-10-27T14:52:49Z | 0 |
+| 21 | 🏛️ **[nexus-06](https://github.com/100048777766367/nexus-06)** | `main` | 2026-10-27T14:33:24Z | 0 |
+| 22 | 🏛️ **[nexus-07](https://github.com/100048777766367/nexus-07)** | `main` | 2026-10-27T14:53:39Z | 0 |
+| 23 | 🏛️ **[nexus-08](https://github.com/100048777766367/nexus-08)** | `main` | 2026-10-27T14:56:28Z | 0 |
+| 24 | 🏛️ **[nexus-09](https://github.com/100048777766367/nexus-09)** | `main` | 2026-10-27T14:56:26Z | 0 |
+| 25 | 🏛️ **[nexus-10](https://github.com/100048777766367/nexus-10)** | `main` | 2026-10-27T15:03:18Z | 0 |
+| 26 | 🏛️ **[nexus-11](https://github.com/100048777766367/nexus-11)** | `main` | 2026-10-27T14:11:45Z | 0 |
+| 27 | 🏛️ **[nexus-12](https://github.com/100048777766367/nexus-12)** | `main` | 2026-10-27T14:20:34Z | 0 |
+| 28 | 🏛️ **[nexus-13](https://github.com/100048777766367/nexus-13)** | `main` | 2026-10-27T14:27:49Z | 0 |
+| 29 | 🏛️ **[nexus-14](https://github.com/100048777766367/nexus-14)** | `main` | 2026-10-27T14:34:36Z | 0 |
+| 30 | 🏛️ **[nexus-forge](https://github.com/100048777766367/nexus-forge)** | `main` | 2026-10-27T12:31:20Z | 0 |
+| 31 | 🏛️ **[nexus-lottery](https://github.com/100048777766367/nexus-lottery)** | `main` | 2026-10-25T02:10:15Z | 0 |
+| 32 | 🏛️ **[nexus-treasury](https://github.com/100048777766367/nexus-treasury)** | `main` | 2026-10-27T12:24:47Z | 0 |
+| 33 | 🏛️ **[nexus-vault](https://github.com/100048777766367/nexus-vault)** | `main` | 2026-10-17T07:42:11Z | 0 |
+| 34 | 🏛️ **[olfactory](https://github.com/100048777766367/olfactory)** | `main` | 2026-10-27T12:20:09Z | 0 |
+| 35 | 🏛️ **[oracle](https://github.com/100048777766367/oracle)** | `main` | 2026-10-27T14:57:00Z | 0 |
+| 36 | 🏛️ **[refinery](https://github.com/100048777766367/refinery)** | `main` | 2026-10-27T14:40:05Z | 0 |
+| 37 | 🏛️ **[refinery-01](https://github.com/100048777766367/refinery-01)** | `main` | 2026-10-27T14:23:29Z | 0 |
+| 38 | 🏛️ **[retina](https://github.com/100048777766367/retina)** | `main` | 2026-10-27T12:30:52Z | 0 |
+| 39 | 🏛️ **[retina-evolved](https://github.com/100048777766367/retina-evolved)** | `main` | 2026-10-24T06:29:26Z | 0 |
+| 40 | 🏛️ **[seed](https://github.com/100048777766367/seed)** | `main` | 2026-10-27T17:25:46Z | 0 |
+| 41 | 🏛️ **[seed-01](https://github.com/100048777766367/seed-01)** | `main` | 2026-10-27T14:32:30Z | 0 |
+| 42 | 🏛️ **[seed-02](https://github.com/100048777766367/seed-02)** | `main` | 2026-10-27T14:54:04Z | 0 |
+| 43 | 🏛️ **[seed-bodhi](https://github.com/100048777766367/seed-bodhi)** | `main` | 2026-10-27T14:50:38Z | 0 |
+| 44 | 🏛️ **[seed-bodhi-02](https://github.com/100048777766367/seed-bodhi-02)** | `main` | 2026-10-27T14:26:40Z | 0 |
+| 45 | 🏛️ **[shunya](https://github.com/100048777766367/shunya)** | `main` | 2026-10-27T17:09:15Z | 0 |
+| 46 | 🏛️ **[tactile](https://github.com/100048777766367/tactile)** | `main` | 2026-10-27T12:04:58Z | 0 |
+| 47 | 🏛️ **[vault](https://github.com/100048777766367/vault)** | `main` | 2026-10-27T14:34:01Z | 0 |
+| 48 | 🏛️ **[vault-01](https://github.com/100048777766367/vault-01)** | `main` | 2026-10-27T14:31:44Z | 0 |
+| 49 | 🏛️ **[vault-02](https://github.com/100048777766367/vault-02)** | `main` | 2026-10-27T14:31:26Z | 0 |
 
 ---
 *Khắc cốt và cập nhật tự động bởi Atlas Supreme Kernel | Bản Đồ Sống Bất Tử*
