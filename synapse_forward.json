@@ -1,6 +1,5 @@
 {
-    "contract": "bodhi.contract.v1",
+    "contract": "bodhi.atlas.v1",
     "identity": "100048777766367/atlas",
-    "epoch": 27,
-    "cid": "3753553583dba79b15207257099549018f356f1ebd05d1af7ee2eb4ba43bc1cf213fd0968b34545b35f3d105cc160be8761a972c9b54738deb773d9e93739a56"
+    "cid": "8f4a3072dfba442c29e86f9640495a38814e3369e61de9db795fd48e0fee359d620c9a3ef7f2e21fea7c9415ede65bddc62f52c99606ed502c8d48e3757bd745"
 }
