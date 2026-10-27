@@ -5,7 +5,7 @@ on:
     branches: [ main, master ]
   workflow_dispatch:
   schedule:
-    # Tuần tra vẽ bản đồ và kiểm toán mỗi 4 tiếng
+    # Tự động tuần tra và vẽ bản đồ mỗi 4 tiếng
     - cron: '0 */4 * * *'
 
 permissions:
@@ -15,41 +15,46 @@ jobs:
   run-atlas:
     runs-on: ubuntu-latest
     steps:
-      # 1. KÉO MÃ NGUỒN BẰNG SHELL GỐC
+      # BƯỚC 1: KÉO MÃ NGUỒN BẰNG LINUX SHELL GỐC
       - name: Kéo mã nguồn Atlas
         run: |
           git clone --depth 1 https://github.com/${{ github.repository }}.git .
 
-      # 2. HẠ TẦNG CHUẨN HOÁ MỚI NHẤT: SETUP-PYTHON V7 & PYTHON 3.14
+      # BƯỚC 2: HẠ TẦNG CI/CD MỚI NHẤT V7 & PYTHON 3.14
       - name: Thiết lập môi trường Python 3.14
         uses: actions/setup-python@v7
         with:
           python-version: '3.14'
 
-      # 3. VẬN HÀNH ĐÀI CHỈ HUY KIỂM TOÁN KERNEL.PY
+      # BƯỚC 3: VẬN HÀNH ĐÀI CHỈ HUY (TRUYỀN TOKEN MỞ KHÓA 5.000 LƯỢT API/GIỜ)
       - name: Vận hành Đài Chỉ Huy Atlas
         env:
           REPO_OWNER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python kernel.py
 
-      # 4. LƯU BẢN ĐỒ VÀ BẢNG KIỂM TOÁN VÀO GIT BỌC THÉP
+      # BƯỚC 4: LƯU BẢN ĐỒ VÀ MẶT TIỀN README.MD VÀO GIT BỌC THÉP
       - name: Lưu bản đồ số và vết tích lên Git
         run: |
           git config --global user.name "Atlas-Homeostasis-Bot"
           git config --global user.email "bot@atlas.command"
           
+          # Cấp token an toàn cho chính repo này (miễn nhiễm lỗi 128)
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           
+          # Tự động nhận diện nhánh đích (main hoặc master)
           TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
           [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ] && TARGET_BRANCH="main"
 
           git fetch origin "$TARGET_BRANCH"
           git reset origin/"$TARGET_BRANCH"
           
+          # Stage toàn bộ bản đồ sống và mặt tiền README.md
           git add -A
           
+          # Commit có cờ [skip ci] để chống vòng lặp vô tận
           if ! git diff --staged --quiet; then
-            git commit -m "🗺️ [Atlas Homeostasis] Kiểm toán 12 ngoại lệ & Bản đồ sống toàn đàn #(1+N) [skip ci]"
+            git commit -m "🗺️ [Atlas Homeostasis] Kiểm toán 12 ngoại lệ & Cập nhật bản đồ mặt tiền #(1+N) [skip ci]"
             git push origin "$TARGET_BRANCH"
           else
             echo "Toàn đàn tĩnh lặng, không có biến thiên mới."
