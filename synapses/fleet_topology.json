@@ -1,716 +1,300 @@
 {
-    "epoch": 3,
-    "official_fleet": [
-        {
-            "name": "369code",
-            "branch": "main",
-            "updated": "2024-08-08T04:19:03Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "App-note",
-            "branch": "main",
-            "updated": "2024-12-06T09:19:27Z",
-            "stars": 0,
-            "forks": 0
-        },
+    "epoch": 4,
+    "fleet": [
         {
             "name": "atlas",
             "branch": "main",
-            "updated": "2026-10-27T10:08:47Z",
-            "stars": 0,
+            "updated": "2026-10-27T10:25:45Z",
             "forks": 0
         },
         {
             "name": "atlas-01",
             "branch": "main",
             "updated": "2026-10-27T05:30:29Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "automaton",
-            "branch": "main",
-            "updated": "2026-10-09T17:42:36Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "capsule",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:53Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "chi-chu",
-            "branch": "main",
-            "updated": "2024-12-16T16:23:41Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "choice",
-            "branch": "main",
-            "updated": "2026-10-24T07:00:44Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "clean",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:30Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "cochlea",
             "branch": "main",
             "updated": "2026-10-27T05:35:47Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "console",
-            "branch": "main",
-            "updated": "2026-10-24T08:43:27Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "contract",
             "branch": "main",
             "updated": "2026-10-27T04:27:57Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "cortex",
             "branch": "main",
             "updated": "2026-10-27T09:59:51Z",
-            "stars": 0,
             "forks": 1
         },
         {
             "name": "cortex-m",
             "branch": "main",
             "updated": "2026-10-27T09:40:13Z",
-            "stars": 0,
             "forks": 1
-        },
-        {
-            "name": "cover",
-            "branch": "main",
-            "updated": "2026-10-24T06:28:56Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "DeepSpeed",
-            "branch": "master",
-            "updated": "2025-02-03T17:40:07Z",
-            "stars": 0,
-            "forks": 0
         },
         {
             "name": "distill",
             "branch": "main",
             "updated": "2026-10-27T05:23:09Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "distill-01",
             "branch": "main",
             "updated": "2026-10-18T08:59:47Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "EAOS",
-            "branch": "main",
-            "updated": "2026-08-21T17:04:02Z",
-            "stars": 1,
-            "forks": 1
-        },
-        {
-            "name": "ecosystem-explorer",
-            "branch": "main",
-            "updated": "2026-10-23T14:12:20Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "forge",
             "branch": "main",
             "updated": "2026-10-27T04:56:24Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "genome",
-            "branch": "main",
-            "updated": "2026-10-27T04:01:48Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "golem",
             "branch": "main",
             "updated": "2026-10-27T05:11:54Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "homeostasis",
-            "branch": "main",
-            "updated": "2026-10-27T05:24:31Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "HV01-Hoc-Vien-Minh-Triet",
-            "branch": "main",
-            "updated": "2026-02-11T14:51:51Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "In-JavaScript-we-trust",
-            "branch": "master",
-            "updated": "2024-11-28T03:50:24Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "investigation",
-            "branch": "main",
-            "updated": "2026-10-24T07:00:46Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "JTBTTYUO",
-            "branch": "main",
-            "updated": "2026-02-11T15:59:18Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "kakakak",
-            "branch": "main",
-            "updated": "2024-12-16T16:29:00Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "Knowledge-oriented-Security-Framework",
-            "branch": "main",
-            "updated": "2026-05-02T15:32:07Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "manifest",
-            "branch": "main",
-            "updated": "2026-10-24T06:30:16Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "medicine",
-            "branch": "main",
-            "updated": "2026-10-24T07:00:48Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "metal",
-            "branch": "main",
-            "updated": "2026-10-27T05:35:03Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "monad",
             "branch": "main",
             "updated": "2026-10-27T04:01:41Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "monad-01",
             "branch": "main",
             "updated": "2026-10-27T09:28:26Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "monad-02",
             "branch": "main",
             "updated": "2026-10-27T05:23:58Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "monitor",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:36Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "motor",
             "branch": "main",
             "updated": "2026-10-14T04:27:37Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "n8n",
-            "branch": "master",
-            "updated": "2025-07-04T20:27:33Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "neuron",
             "branch": "main",
             "updated": "2026-10-27T05:22:13Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus",
             "branch": "main",
             "updated": "2026-10-27T05:36:03Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-01",
             "branch": "main",
             "updated": "2026-10-27T04:55:13Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-02",
             "branch": "main",
             "updated": "2026-10-27T05:16:06Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-03",
             "branch": "main",
             "updated": "2026-10-27T05:19:14Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-04",
             "branch": "main",
             "updated": "2026-10-27T05:17:22Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-05",
             "branch": "main",
             "updated": "2026-10-27T05:30:56Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-06",
             "branch": "main",
             "updated": "2026-10-27T05:09:07Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-07",
             "branch": "main",
             "updated": "2026-10-27T05:33:00Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-08",
             "branch": "main",
             "updated": "2026-10-27T05:39:24Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-09",
             "branch": "main",
             "updated": "2026-10-27T05:38:54Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-10",
             "branch": "main",
             "updated": "2026-10-27T05:50:18Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-11",
             "branch": "main",
             "updated": "2026-10-27T04:20:51Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-12",
             "branch": "main",
             "updated": "2026-10-27T04:48:51Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-13",
             "branch": "main",
             "updated": "2026-10-27T04:59:27Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-14",
             "branch": "main",
             "updated": "2026-10-27T05:10:33Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-forge",
             "branch": "main",
             "updated": "2026-10-27T05:21:58Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-lottery",
             "branch": "main",
             "updated": "2026-10-25T02:10:15Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-treasury",
             "branch": "main",
             "updated": "2026-10-27T05:16:00Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "nexus-vault",
             "branch": "main",
             "updated": "2026-10-17T07:42:11Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "note-vi1.1",
-            "branch": "main",
-            "updated": "2025-01-02T10:07:41Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "notevi7",
-            "branch": "main",
-            "updated": "2024-12-30T17:48:18Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "notevi8",
-            "branch": "main",
-            "updated": "2024-12-30T18:16:06Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "note_app",
-            "branch": "main",
-            "updated": "2024-12-06T11:02:20Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "note_vi6",
-            "branch": "main",
-            "updated": "2024-12-30T17:00:55Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "nvm",
-            "branch": "main",
-            "updated": "2026-10-11T13:45:16Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "olfactory",
             "branch": "main",
             "updated": "2026-10-27T05:12:28Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "on",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:21Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "open",
-            "branch": "main",
-            "updated": "2026-10-24T06:57:45Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "open-code",
-            "branch": "main",
-            "updated": "2026-10-24T06:57:43Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "open-dir",
-            "branch": "main",
-            "updated": "2026-10-24T06:57:38Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "open-file",
-            "branch": "main",
-            "updated": "2026-10-24T06:57:40Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "open-tree",
-            "branch": "main",
-            "updated": "2026-10-24T06:57:36Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "oracle",
             "branch": "main",
             "updated": "2026-10-27T05:41:37Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "pilot",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:52Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "quarantine",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:34Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "Quiz-code",
-            "branch": "main",
-            "updated": "2025-02-05T06:37:01Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "refinery",
             "branch": "main",
             "updated": "2026-10-27T05:17:02Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "refinery-01",
             "branch": "main",
             "updated": "2026-10-27T04:56:18Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "release",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:01Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "retina",
             "branch": "main",
             "updated": "2026-10-27T05:20:39Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "retina-evolved",
             "branch": "main",
             "updated": "2026-10-24T06:29:26Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "review",
-            "branch": "main",
-            "updated": "2026-10-24T06:30:18Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "rollback",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:41Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "seal",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:39Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "seed",
             "branch": "main",
             "updated": "2026-10-27T09:34:17Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "seed-01",
             "branch": "main",
             "updated": "2026-10-27T05:06:05Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "seed-02",
             "branch": "main",
             "updated": "2026-10-27T05:34:51Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "seed-bodhi",
             "branch": "main",
             "updated": "2026-10-27T05:25:55Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "seed-bodhi-02",
             "branch": "main",
             "updated": "2026-10-27T04:58:54Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "shunya",
             "branch": "main",
             "updated": "2026-10-27T03:09:50Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "sieu-xor-node",
-            "branch": "main",
-            "updated": "2026-10-27T05:22:00Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "signal",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:43Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "storage",
-            "branch": "main",
-            "updated": "2026-10-24T08:58:44Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "switch",
-            "branch": "main",
-            "updated": "2026-10-24T06:29:55Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "tactile",
             "branch": "main",
             "updated": "2026-10-27T04:58:07Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "tag",
-            "branch": "main",
-            "updated": "2026-10-24T06:34:50Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "testing",
-            "branch": "main",
-            "updated": "2026-10-24T06:28:59Z",
-            "stars": 0,
-            "forks": 0
-        },
-        {
-            "name": "thalamus",
-            "branch": "main",
-            "updated": "2026-10-27T04:43:54Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "vault",
             "branch": "main",
             "updated": "2026-10-27T05:10:26Z",
-            "stars": 0,
             "forks": 0
         },
         {
             "name": "vault-01",
             "branch": "main",
             "updated": "2026-10-27T05:05:14Z",
-            "stars": 0,
             "forks": 0
         }
     ],
-    "shadow_clones": [],
-    "pipeline_status": {
-        "contract": "\ud83d\udfe2 ONLINE",
-        "nexus-08": "\ud83d\udfe2 ONLINE",
-        "vault": "\ud83d\udfe2 ONLINE",
-        "forge": "\ud83d\udfe2 ONLINE",
-        "distill": "\ud83d\udfe2 ONLINE",
-        "golem": "\ud83d\udfe2 ONLINE",
-        "oracle": "\ud83d\udfe2 ONLINE",
-        "cortex": "\ud83d\udfe2 ONLINE"
-    }
+    "shadows": []
 }
