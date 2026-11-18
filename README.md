@@ -1,6 +1,6 @@
 # 🗺️ BODHI-ATLAS: TỔNG TRẠM HOA TIÊU & ĐIỀU HÒA NỘI MÔ
-> **Đài Chỉ Huy Hải Đăng & Bản Đồ Số Sống Động** | **Kỷ nguyên hải đăng:** #70  
-> **Chứng Chỉ Lượng Tử Toàn Đàn CID:** `b427d510001732dc1cf129c6263480c57d075fb6826a42e54aa3d1fa0625456aa3bdef698b9f9e053041c4e72927811e8fb66e84badcd14e4db1ca80094c2933`
+> **Đài Chỉ Huy Hải Đăng & Bản Đồ Số Sống Động** | **Kỷ nguyên hải đăng:** #71  
+> **Chứng Chỉ Lượng Tử Toàn Đàn CID:** `c71b0af1415192771abf09d9b12586e14d8e4434adc70013e026f166d6ad6952bad742c4d3d48a3ede004480eaa74b27d882d9125c865ecae4a05a7d7fd596ee`
 
 ---
 
